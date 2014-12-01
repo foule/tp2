@@ -1,0 +1,9 @@
+nom compte: foule
+passwd : projet1
+
+git branch nmbranch  : pr creer une branche
+git checkout : pr changer de branche
+git push : envoyer sr git
+git add: pr ajouter ds la branche
+git commit -a -m "mess"
+git merge nombranch : rassemble les donnees de la branche ds le master
